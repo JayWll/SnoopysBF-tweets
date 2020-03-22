@@ -1,7 +1,4 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
   "name": "snoopysbf-tweets",
   "version": "1.0.0",
   "description": "A bot that posts tweets for my dog Charlie Brown. Find him on twitter @SnoopysBF",
@@ -24,6 +21,7 @@
   "keywords": [
     "node",
     "glitch",
-    "express"
+    "express",
+    "twitter"
   ]
 }
